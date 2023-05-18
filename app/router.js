@@ -4,7 +4,7 @@ import { HomeController } from "./controllers/HomeController.js";
 export const router = [
   {
     path: '',
-    controller: HomeController
+    controller: PokemonController
   },
 
 ]
